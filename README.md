@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chililw
+- 👀 I’m interested in learning introductory web development
+- 🌱 I’m currently learning the full-stack engineer path on codeacademy.com
+- 💞️ I’m looking to collaborate on anything!
+- 📫 Reach me via email: chilileblancwulff@gmail.com
